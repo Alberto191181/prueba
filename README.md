@@ -1,1 +1,1 @@
-##Esto es una prueba de git y guthub
+##Esto es una prueba de git y github
